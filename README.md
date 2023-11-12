@@ -1,5 +1,5 @@
 # Reto: Servicio para gestión de calidad de los anuncios
-Esta prueba de código está hecha con Laravel y utiliza XAMPP.
+Esta prueba de código está hecha con Laravel.
 
 ## Modelos
 Tenemos un modelo Ad y otro Picture cada uno con sus métodos y propiedades y estas, con sus getters para acceder a ellos.
